@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일\10/1">
+      <UniqueIdentifier>{4b5ae68a-9dde-42ab-8c45-b0845fa55cf3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\10/6">
+      <UniqueIdentifier>{df5a4090-72ea-41c2-a223-256ebb2bf993}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\10/13">
+      <UniqueIdentifier>{796e688d-4ef4-4d4d-b099-ad4263240ec6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\10/27">
+      <UniqueIdentifier>{4bd99b9f-153e-4d72-bf90-2e1c53619cd1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\11/3">
+      <UniqueIdentifier>{a79f1afe-d1a4-4d11-a3ee-c5177f3c8321}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\11/8">
+      <UniqueIdentifier>{4f21e0f7-56a8-4452-b5b5-993d4010e3d3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\11/14">
+      <UniqueIdentifier>{40babd6e-cad7-4415-962c-88e62a83685a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\기타">
+      <UniqueIdentifier>{c4278379-252a-4e56-a763-9e0c1a9359a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\12/1">
+      <UniqueIdentifier>{15468ab2-1b05-416a-9f48-3618c7591b7b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\12/8">
+      <UniqueIdentifier>{046d2087-3322-43fd-884a-88d6fa211f49}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="20_행렬곱셈.cpp">
+      <Filter>리소스 파일\11/8</Filter>
+    </ClCompile>
+    <ClCompile Include="21_이진수에서0과1의개수.cpp">
+      <Filter>리소스 파일\11/8</Filter>
+    </ClCompile>
+    <ClCompile Include="22_k번째숫자.cpp">
+      <Filter>리소스 파일\11/8</Filter>
+    </ClCompile>
+    <ClCompile Include="1_정수연산.cpp">
+      <Filter>리소스 파일\10/1</Filter>
+    </ClCompile>
+    <ClCompile Include="2_시험점수분포.cpp">
+      <Filter>리소스 파일\10/1</Filter>
+    </ClCompile>
+    <ClCompile Include="3_두정수사이의모든정수의합구하기.cpp">
+      <Filter>리소스 파일\10/1</Filter>
+    </ClCompile>
+    <ClCompile Include="4_주어진정수의최대최소구하기.cpp">
+      <Filter>리소스 파일\10/6</Filter>
+    </ClCompile>
+    <ClCompile Include="5_숫자로삼각형출력하기.cpp">
+      <Filter>리소스 파일\10/6</Filter>
+    </ClCompile>
+    <ClCompile Include="6_다이아몬드모양출력하기.cpp">
+      <Filter>리소스 파일\10/6</Filter>
+    </ClCompile>
+    <ClCompile Include="7_끝자리숫자계산하기.cpp">
+      <Filter>리소스 파일\10/6</Filter>
+    </ClCompile>
+    <ClCompile Include="8_약수의합구하기_자세히설명.cpp">
+      <Filter>리소스 파일\10/13</Filter>
+    </ClCompile>
+    <ClCompile Include="9_모래시계출력하기.cpp">
+      <Filter>리소스 파일\10/13</Filter>
+    </ClCompile>
+    <ClCompile Include="10_0이아닌마지막자리수구하기.cpp">
+      <Filter>리소스 파일\10/13</Filter>
+    </ClCompile>
+    <ClCompile Include="11_중간고사_피보나치수출력하기.cpp">
+      <Filter>리소스 파일\10/27</Filter>
+    </ClCompile>
+    <ClCompile Include="12_중간고사_숫자삼각형출력하기.cpp">
+      <Filter>리소스 파일\10/27</Filter>
+    </ClCompile>
+    <ClCompile Include="13_중간_최빈수.cpp">
+      <Filter>리소스 파일\10/27</Filter>
+    </ClCompile>
+    <ClCompile Include="14_삼각형의종류_2.cpp">
+      <Filter>리소스 파일\10/27</Filter>
+    </ClCompile>
+    <ClCompile Include="15_삼각형의종류_1.cpp">
+      <Filter>리소스 파일\10/27</Filter>
+    </ClCompile>
+    <ClCompile Include="16_행렬덧셈.cpp">
+      <Filter>리소스 파일\11/3</Filter>
+    </ClCompile>
+    <ClCompile Include="17_직선그래프출력하기.cpp">
+      <Filter>리소스 파일\11/3</Filter>
+    </ClCompile>
+    <ClCompile Include="18_주가분석_1.cpp">
+      <Filter>리소스 파일\11/3</Filter>
+    </ClCompile>
+    <ClCompile Include="19_1차원라이프게임.cpp">
+      <Filter>리소스 파일\11/3</Filter>
+    </ClCompile>
+    <ClCompile Include="22_k번째숫자_교수님풀이.cpp">
+      <Filter>리소스 파일\11/8</Filter>
+    </ClCompile>
+    <ClCompile Include="23_소괄호.cpp">
+      <Filter>리소스 파일\11/14</Filter>
+    </ClCompile>
+    <ClCompile Include="11의배수.cpp">
+      <Filter>리소스 파일\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="11의배수_2.cpp">
+      <Filter>리소스 파일\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Documents\카카오톡 받은 파일\eleven %281%29.cpp">
+      <Filter>리소스 파일\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="24_부분합구간길이구하기.cpp">
+      <Filter>리소스 파일\11/14</Filter>
+    </ClCompile>
+    <ClCompile Include="25_버블정렬.cpp">
+      <Filter>리소스 파일\11/14</Filter>
+    </ClCompile>
+    <ClCompile Include="26_괄호.cpp">
+      <Filter>리소스 파일\11/14</Filter>
+    </ClCompile>
+    <ClCompile Include="26_괄호_수정.cpp">
+      <Filter>리소스 파일\11/14</Filter>
+    </ClCompile>
+    <ClCompile Include="23_소괄호_교수님풀이.cpp">
+      <Filter>리소스 파일\11/14</Filter>
+    </ClCompile>
+    <ClCompile Include="21_이진수에서0과1의개수_교수님풀이.cpp">
+      <Filter>리소스 파일\11/8</Filter>
+    </ClCompile>
+    <ClCompile Include="24_부분합구간길이구하기_교수님풀이.cpp">
+      <Filter>리소스 파일\11/14</Filter>
+    </ClCompile>
+    <ClCompile Include="서림.cpp">
+      <Filter>리소스 파일\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="25_버블정렬_교수님풀이.cpp">
+      <Filter>리소스 파일\11/14</Filter>
+    </ClCompile>
+    <ClCompile Include="11의배수_교수님풀이.cpp">
+      <Filter>리소스 파일\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="11의배수_교수님풀이_수정.cpp">
+      <Filter>리소스 파일\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="11의배수_교수님풀이_2.cpp">
+      <Filter>리소스 파일\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="방의크기구하기.cpp">
+      <Filter>리소스 파일\12/1</Filter>
+    </ClCompile>
+    <ClCompile Include="국제표준도서번호.cpp">
+      <Filter>리소스 파일\12/1</Filter>
+    </ClCompile>
+    <ClCompile Include="2차원점.cpp">
+      <Filter>리소스 파일\12/8</Filter>
+    </ClCompile>
+    <ClCompile Include="MyISBN.cpp">
+      <Filter>리소스 파일\12/1</Filter>
+    </ClCompile>
+    <ClCompile Include="국제표준도서번호_합친파일.cpp">
+      <Filter>리소스 파일\12/1</Filter>
+    </ClCompile>
+    <ClCompile Include="방의크기구하기_교수님풀이.cpp">
+      <Filter>리소스 파일\12/1</Filter>
+    </ClCompile>
+    <ClCompile Include="MyPoint.cpp">
+      <Filter>리소스 파일\12/8</Filter>
+    </ClCompile>
+    <ClCompile Include="TestMyPoint.cpp">
+      <Filter>리소스 파일\12/8</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MyISBN.h">
+      <Filter>리소스 파일\12/1</Filter>
+    </ClInclude>
+    <ClInclude Include="MyPoint.h">
+      <Filter>리소스 파일\12/8</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
